@@ -23,8 +23,7 @@ SOFTWARE
 CMS
   <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a></p>
 
-<table>
-<tr>
+<table><tr>
 <th>Core</th>
 <th>Code Editors</th>
 </tr><tr>
