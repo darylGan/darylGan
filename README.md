@@ -3,15 +3,6 @@
 As a recent graduate with a Bachelor's degree in Data Science, I am excited to start my career in the dynamic fields of data analytics and machine learning. I have a solid foundation in statistical analysis, programming, and data visualization, and I am eager to apply my skills to real-world challenges. I am looking forward to collaborating with innovative teams where I can continue to learn, grow, and make a meaningful impact through data-driven insights. If you're in search of an analytically-minded data science professional, let's connect and explore how we can harness the power of data together!
 
 ### Skills 
-<p align="left">
-BACKEND
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <br />
-SOFTWARE
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a> <br />
-CMS
-  <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a></p>
-
 <table><tr>
 <th>Core</th>
 <th>Code Editors</th>
