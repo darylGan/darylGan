@@ -17,7 +17,7 @@ As a recent graduate with a Bachelor's degree in Data Science, I am excited to s
 
 </td><td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darylGan&langs_count=10&layout=compact&show_icons=true&text_color=ffffff&bg_color=0D1117&hide_border=true&locale=en"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darylGan&layout=donut&show_icons=true&theme=default&bg_color=00000000&hide_border=true&locale=en&langs_count=20&size_weight=0.5&count_weight=0.5"/>
 
 </td><td>
 
