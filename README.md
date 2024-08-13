@@ -17,11 +17,11 @@ As a recent graduate with a Bachelor's degree in Data Science, I am excited to s
 
 </td><td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darylGan&layout=donut&show_icons=true&theme=default&hide_border=true&locale=en&langs_count=20&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darylGan&layout=donut&show_icons=true&theme=default&hide_border=true&card_width=300&locale=en&langs_count=20&size_weight=0.5&count_weight=0.5"/>
 
 </td><td>
 
-| <a href="https://www.microsoft.com/en-my/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="35" height="35" alt="Microsoft SQL Server"/> | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448245/oracle.svg" width="35" height="35" alt="Oracle"/> |
+| <a href="https://www.microsoft.com/en-my/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="35" height="35" alt="Microsoft SQL Server"/> | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448245/oracle.svg" width="35" height="35" alt="Oracle"/> |
 | :-: | :-: |
 | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="35" height="35" alt="PostgreSQL"/> | <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="35" height="35" alt="MySQL"/> |
 
