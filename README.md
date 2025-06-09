@@ -1,7 +1,5 @@
 ---
 
-As a recent graduate with a Bachelor's degree in Data Science, I am excited to start my career in the dynamic fields of data analytics and machine learning. I have a solid foundation in statistical analysis, programming, and data visualization, and I am eager to apply my skills to real-world challenges. I am looking forward to collaborating with innovative teams where I can continue to learn, grow, and make a meaningful impact through data-driven insights. If you're in search of an analytically-minded data science professional, let's connect and explore how we can harness the power of data together!
-
 ### Skills 
 <table><tr>
 <th>Language</th>
